@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Autosave files
 *.asv
 *.m~
@@ -38,3 +39,29 @@ codegen/
 # SimBiology backup files
 *.sbproj.backup
 *.sbproj.bak
+=======
+# Archivos de autoguardado y temporales
+*.asv
+*.asv*
+*.autosave
+
+# Archivos compilados (no se deben subir)
+*.mex*
+*.mexa64
+*.mexw64
+*.mexmaci64
+
+# Archivos de simulink y caché (si los usaras)
+slprj/
+*.slxc
+*.sdi
+
+# Archivos de configuración de proyecto locales
+.SimulinkProject/
+_SimulinkProject/
+
+# Archivos de sesión grandes 
+
+# Carpetas de resultados temporales 
+# Si las carpetas "Masks" o "Output" se generan cada vez, es mejor ignorarlas:
+>>>>>>> ebd620059eacddc22bbd0f17e98dff6ed93e3533

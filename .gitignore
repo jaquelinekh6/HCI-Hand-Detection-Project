@@ -22,5 +22,3 @@ _SimulinkProject/
 
 # Carpetas de resultados temporales 
 # Si las carpetas "Masks" o "Output" se generan cada vez, es mejor ignorarlas:
-/Masks/
-/ValidationMasks/
